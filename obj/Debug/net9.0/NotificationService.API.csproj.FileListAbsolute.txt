@@ -186,3 +186,4 @@ C:\Projects\FullStackAPI\Backend\NotificationService.API\bin\Debug\net9.0\runtim
 C:\Projects\FullStackAPI\Backend\NotificationService.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Projects\FullStackAPI\Backend\NotificationService.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Projects\FullStackAPI\Backend\NotificationService.API\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Projects\FullStackAPI\Backend\NotificationService.API\obj\Debug\net9.0\NotificationService.API.sourcelink.json
